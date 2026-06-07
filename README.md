@@ -41,6 +41,8 @@ Data Analysis • Machine Learning • Predictive Analytics • Business Intelli
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git\&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square\&logo=github\&logoColor=white)
 
+---
+
 
 ## 🔬 Currently Building
 
@@ -55,6 +57,50 @@ The project focuses on improving model reliability and decision-making when medi
 Medical Imaging • Explainable AI • Adaptive Machine Learning • Distribution Shift • AI Safety
 
 
+
+---
+
+---
+
+## 📌 Featured Projects
+
+### 📈 Retail Intelligence & Forecasting Platform
+
+Forecasting sales trends, identifying anomalies, and generating actionable business insights through interactive dashboards.
+
+**Status:** Planned
+
+---
+
+### 🛡️ Fraud Detection & Explainable AI
+
+Machine learning system focused on fraud detection, risk analysis, and model explainability.
+
+**Status:** Planned
+
+---
+
+### 📊 Business Intelligence Dashboard
+
+Interactive dashboards designed to monitor KPIs, uncover trends, and support business decision-making.
+
+**Status:** Planned
+
+---
+
+### 🗄️ SQL Analytics Portfolio
+
+Business-focused SQL case studies covering revenue analysis, customer insights, retention metrics, and operational reporting.
+
+**Status:** Planned
+
+---
+
+### 🤖 AI Analytics Assistant
+
+Conversational analytics assistant capable of answering business questions using structured datasets.
+
+**Status:** Planned
 
 ---
 
