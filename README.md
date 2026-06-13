@@ -64,43 +64,48 @@ Medical Imaging • Explainable AI • Adaptive Machine Learning • Distributio
 
 ## 📌 Featured Projects
 
-### 📈 Retail Intelligence & Forecasting Platform
+## 💳 Cost-Aware Fraud Detection System
 
-Forecasting sales trends, identifying anomalies, and generating actionable business insights through interactive dashboards.
+🔗 **Repository:** https://github.com/RithikaRajeev01/cost-aware-credit-card-fraud-detection
 
-**Status:** Planned
+Built an explainable and cost-aware fraud detection framework using XGBoost, SHAP, and Python on a subset of **100K transactions** from the IEEE-CIS Fraud Detection dataset.
 
----
+* Achieved a **ROC-AUC of 0.943** using an XGBoost classifier trained on **308 features** after reducing dimensionality by **29%** through correlation-based feature selection.
+* Engineered a **LossScore** metric *(Fraud Probability × Transaction Amount)* that recovered **89.9% more fraud value** than probability-only ranking under a **100-transaction review budget**.
+* Optimized the classification threshold using **F2-score**, improving fraud recall from **48.8% to 67.2%** while maintaining **63% precision**.
+* Applied **SHAP explainability** to interpret model predictions, identifying **C1, M4, and TransactionAmt** as key fraud indicators.
 
-### 🛡️ Fraud Detection & Explainable AI
-
-Machine learning system focused on fraud detection, risk analysis, and model explainability.
-
-**Status:** Planned
-
----
-
-### 📊 Business Intelligence Dashboard
-
-Interactive dashboards designed to monitor KPIs, uncover trends, and support business decision-making.
-
-**Status:** Planned
+**Tech Stack:** Python, Pandas, NumPy, XGBoost, Scikit-Learn, SHAP, Matplotlib
 
 ---
 
-### 🗄️ SQL Analytics Portfolio
+## 📊 Power BI Sales Performance Dashboard
 
-Business-focused SQL case studies covering revenue analysis, customer insights, retention metrics, and operational reporting.
+🔗 **Repository:** https://github.com/RithikaRajeev01/PowerBI-Sales-Performance-Dashboard
 
-**Status:** Planned
+Developed an interactive executive dashboard using Power BI to analyze sales performance, customer behavior, and regional trends.
+
+* Consolidated sales, customer, and product KPIs into a single dashboard with interactive filtering and drill-down capabilities.
+* Built DAX measures and visualizations to track revenue growth, product performance, and regional sales distribution.
+* Enabled quick exploration of business trends through dynamic visualizations and cross-filtering across multiple dimensions.
+* Designed the dashboard to simplify business reporting and support data-driven decision-making.
+
+**Tech Stack:** Power BI, DAX, Power Query, Excel
 
 ---
 
-### 🤖 AI Analytics Assistant
+## 📈 Revenue at Risk Analysis (SQL)
 
-Conversational analytics assistant capable of answering business questions using structured datasets.
+🔗 **Repository:** https://github.com/RithikaRajeev01/revenue-at-risk-sql
 
-**Status:** Planned
+Performed SQL-based customer and revenue risk analysis to identify churn patterns and high-risk customer segments.
+
+* Developed reusable SQL queries for customer segmentation, churn analysis, and revenue trend monitoring.
+* Identified customer groups contributing most to revenue risk and explored retention opportunities using business-focused metrics.
+* Analyzed subscription and customer behavior data to uncover trends that can support retention strategies.
+* Structured queries and reports to simplify business reporting and customer risk monitoring.
+
+**Tech Stack:** SQL, MySQL Workbench
 
 ---
 
