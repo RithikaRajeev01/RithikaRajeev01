@@ -93,7 +93,7 @@ Built an end-to-end SQL analytics pipeline using **7,043 telecom customer record
 
 ## 📊 InsightIQ — Executive Business Intelligence Dashboard
 
-🔗 **Repository:** https://github.com/RithikaRajeev01/InsightIO-PowerBI-Executive-Dashboard
+🔗 **Repository:** https://github.com/RithikaRajeev01/InsightIQ-PowerBI-Executive-Dashboard
 
 Built an executive Business Intelligence solution using Power BI to transform sales, product, customer, returns, and regional data into interactive decision-support analytics.
 
